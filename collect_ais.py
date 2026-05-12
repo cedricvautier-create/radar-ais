@@ -5,60 +5,56 @@ import os
 
 async def collect_vessels():
     api_key = os.getenv("AISSTREAM_KEY")
-    # Zone CEMAC : On vise large (Nigeria jusqu'à Angola)
-    bbox = [[-10.0, 2.0], [10.0, 15.0]] 
+    # TEST : Détroit de Gibraltar (Zone ultra-fréquentée garantie)
+    # Si ça marche ici, le code est bon.
+    bbox = [[35.0, -7.0], [37.0, -4.0]] 
     vessels = {} 
 
-    print(f"📡 DÉBUT DE LA COLLECTE (Zone CEMAC)")
+    print(f"📡 TEST DE VALIDATION : Zone Gibraltar")
     
     try:
-        # On augmente le timeout de connexion pour GitHub
         async with websockets.connect("wss://stream.aisstream.io/v0/stream", open_timeout=30) as websocket:
             subscribe_message = {
                 "APIKey": api_key,
-                "BoundingBoxes": [bbox],
-                # FILTRE SUPPRIMÉ : On veut voir TOUS les bateaux pour tester
+                "BoundingBoxes": [bbox] # Format liste de listes
             }
             await websocket.send(json.dumps(subscribe_message))
-            print("✅ Connecté. Écoute intensive de 120 secondes (2 minutes)...")
+            print("✅ Connecté. Écoute de 60 secondes...")
             
             start_time = asyncio.get_event_loop().time()
-            while asyncio.get_event_loop().time() - start_time < 120:
+            while asyncio.get_event_loop().time() - start_time < 60:
                 try:
                     message = await asyncio.wait_for(websocket.recv(), timeout=5.0)
                     data = json.loads(message)
                     
-                    # Log de diagnostic : pour voir ce qu'on reçoit
-                    msg_type = data.get("MessageType", "Unknown")
-                    
                     if "MetaData" in data:
                         meta = data["MetaData"]
                         mmsi = meta.get("MMSI")
-                        ship_name = meta.get("ShipName", "").strip()
+                        # Extraction robuste de la position
+                        msg = data.get("Message", {})
+                        # Certains messages n'ont pas de position, on cherche dans les différents types
+                        pos = msg.get("PositionReport", msg.get("StandardClassBPositionReport", {}))
                         
-                        # On cherche les coordonnées soit dans le message, soit dans les métadonnées
-                        lat = data["Message"].get("PositionReport", {}).get("Latitude")
-                        lon = data["Message"].get("PositionReport", {}).get("Longitude")
+                        lat = pos.get("Latitude")
+                        lon = pos.get("Longitude")
 
-                        if lat and lon and lat != 0:
+                        if lat and lon:
                             vessels[mmsi] = {
                                 "mmsi": mmsi,
-                                "name": ship_name or f"Inconnu ({mmsi})",
+                                "name": meta.get("ShipName", "Inconnu"),
                                 "lat": lat,
                                 "lon": lon,
-                                "tooltip_title": f"🚢 {ship_name or 'Navire'}",
-                                "tooltip_content": f"MMSI: {mmsi}<br/>Type: {msg_type}"
+                                "tooltip_title": f"🚢 {meta.get('ShipName', 'Navire')}",
+                                "tooltip_content": f"MMSI: {mmsi}"
                             }
-                            if len(vessels) % 5 == 0:
-                                print(f"📥 {len(vessels)} navires en mémoire...")
+                            print(f"📥 Capté : {meta.get('ShipName')} ({len(vessels)} au total)")
                 except asyncio.TimeoutError:
-                    print("... silence satellite ...")
                     continue
         
         output = list(vessels.values())
         with open("vessels.json", "w", encoding="utf-8") as f:
             json.dump(output, f, indent=4)
-        print(f"💾 TERMINÉ : {len(output)} navires sauvegardés.")
+        print(f"💾 TEST TERMINÉ : {len(output)} navires sauvegardés.")
 
     except Exception as e:
         print(f"❌ ERREUR : {e}")
