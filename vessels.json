@@ -1,130 +1,66 @@
 [
     {
-        "mmsi": 247601000,
-        "name": "CALA PALMA",
-        "lat": 36.070838333333334,
-        "lon": -4.93516,
-        "tooltip_title": "\ud83d\udea2 CALA PALMA",
-        "tooltip_content": "MMSI: 247601000"
-    },
-    {
-        "mmsi": 224063870,
-        "name": "MAGIC A ",
-        "lat": 36.713655,
-        "lon": -4.416731666666666,
-        "tooltip_title": "\ud83d\udea2 MAGIC A ",
-        "tooltip_content": "MMSI: 224063870"
-    },
-    {
-        "mmsi": 225985765,
-        "name": "ATIKO",
-        "lat": 36.817753333333336,
-        "lon": -6.351041666666666,
-        "tooltip_title": "\ud83d\udea2 ATIKO",
-        "tooltip_content": "MMSI: 225985765"
-    },
-    {
-        "mmsi": 224009880,
-        "name": "PLAYA MORCH SG",
-        "lat": 36.53932666666666,
-        "lon": -4.617546666666667,
-        "tooltip_title": "\ud83d\udea2 PLAYA MORCH SG",
-        "tooltip_content": "MMSI: 224009880"
-    },
-    {
-        "mmsi": 636021673,
-        "name": "GREY LUNA           ",
-        "lat": 36.03996666666667,
-        "lon": -4.6562399999999995,
-        "tooltip_title": "\ud83d\udea2 GREY LUNA           ",
-        "tooltip_content": "MMSI: 636021673"
-    },
-    {
-        "mmsi": 636022180,
-        "name": "MINERVA ANNA        ",
-        "lat": 36.25390166666667,
-        "lon": -4.373506666666667,
-        "tooltip_title": "\ud83d\udea2 MINERVA ANNA        ",
-        "tooltip_content": "MMSI: 636022180"
-    },
-    {
-        "mmsi": 538071020,
-        "name": "SHU U RITE          ",
-        "lat": 36.717528333333334,
-        "lon": -4.4135116666666665,
-        "tooltip_title": "\ud83d\udea2 SHU U RITE          ",
-        "tooltip_content": "MMSI: 538071020"
-    },
-    {
-        "mmsi": 229842000,
-        "name": "CMA CGM BARRACUDA   ",
-        "lat": 36.088544999999996,
-        "lon": -4.470345,
-        "tooltip_title": "\ud83d\udea2 CMA CGM BARRACUDA   ",
-        "tooltip_content": "MMSI: 229842000"
-    },
-    {
-        "mmsi": 249895000,
-        "name": "HONORINE",
-        "lat": 36.30001666666667,
-        "lon": -4.889925000000001,
-        "tooltip_title": "\ud83d\udea2 HONORINE",
-        "tooltip_content": "MMSI: 249895000"
-    },
-    {
-        "mmsi": 563101300,
-        "name": "BW YUSHI            ",
-        "lat": 35.88774333333333,
-        "lon": -4.456246666666667,
-        "tooltip_title": "\ud83d\udea2 BW YUSHI            ",
-        "tooltip_content": "MMSI: 563101300"
-    },
-    {
-        "mmsi": 477439800,
-        "name": "SC DRACO            ",
-        "lat": 36.11909166666667,
-        "lon": -4.305598333333333,
-        "tooltip_title": "\ud83d\udea2 SC DRACO            ",
-        "tooltip_content": "MMSI: 477439800"
-    },
-    {
-        "mmsi": 538007617,
-        "name": "NAVIOS VERANO       ",
-        "lat": 35.83129833333333,
-        "lon": -5.076118333333333,
-        "tooltip_title": "\ud83d\udea2 NAVIOS VERANO       ",
-        "tooltip_content": "MMSI: 538007617"
+        "mmsi": 636016017,
+        "name": "HISTRIA  AMBRA",
+        "lat": 36.14718333333334,
+        "lon": -4.532871666666667,
+        "tooltip_title": "\ud83d\udea2 HISTRIA  AMBRA",
+        "tooltip_content": "MMSI: 636016017"
     },
     {
         "mmsi": 538009053,
         "name": "SSI PROVIDENCE      ",
-        "lat": 36.19222833333333,
-        "lon": -4.922841666666667,
+        "lat": 36.21776166666667,
+        "lon": -4.852613333333333,
         "tooltip_title": "\ud83d\udea2 SSI PROVIDENCE      ",
         "tooltip_content": "MMSI: 538009053"
     },
     {
-        "mmsi": 225982867,
-        "name": "FLY BLUE TRES",
-        "lat": 36.71525666666666,
-        "lon": -4.41567,
-        "tooltip_title": "\ud83d\udea2 FLY BLUE TRES",
-        "tooltip_content": "MMSI: 225982867"
-    },
-    {
-        "mmsi": 636016702,
-        "name": "MSC OAK F",
-        "lat": 36.51649,
-        "lon": -4.004396666666667,
-        "tooltip_title": "\ud83d\udea2 MSC OAK F",
-        "tooltip_content": "MMSI: 636016702"
+        "mmsi": 247322800,
+        "name": "AIDASTELLA",
+        "lat": 36.24465333333333,
+        "lon": -4.860761666666666,
+        "tooltip_title": "\ud83d\udea2 AIDASTELLA",
+        "tooltip_content": "MMSI: 247322800"
     },
     {
         "mmsi": 255806493,
         "name": "MSC VITA            ",
-        "lat": 36.227920000000005,
-        "lon": -4.580461666666666,
+        "lat": 36.096273333333336,
+        "lon": -5.030424999999999,
         "tooltip_title": "\ud83d\udea2 MSC VITA            ",
         "tooltip_content": "MMSI: 255806493"
+    },
+    {
+        "mmsi": 255915786,
+        "name": "PANDA 007",
+        "lat": 36.048025,
+        "lon": -4.78815,
+        "tooltip_title": "\ud83d\udea2 PANDA 007",
+        "tooltip_content": "MMSI: 255915786"
+    },
+    {
+        "mmsi": 225992707,
+        "name": "FLY  BLUE  QUATTRO",
+        "lat": 36.71013833333333,
+        "lon": -4.401271666666667,
+        "tooltip_title": "\ud83d\udea2 FLY  BLUE  QUATTRO",
+        "tooltip_content": "MMSI: 225992707"
+    },
+    {
+        "mmsi": 311001272,
+        "name": "SONANGOL KULUMBIMBI ",
+        "lat": 36.12625166666667,
+        "lon": -4.087261666666667,
+        "tooltip_title": "\ud83d\udea2 SONANGOL KULUMBIMBI ",
+        "tooltip_content": "MMSI: 311001272"
+    },
+    {
+        "mmsi": 224229870,
+        "name": "DRAGON DE ORO",
+        "lat": 36.56718166666667,
+        "lon": -4.547243333333333,
+        "tooltip_title": "\ud83d\udea2 DRAGON DE ORO",
+        "tooltip_content": "MMSI: 224229870"
     }
 ]
