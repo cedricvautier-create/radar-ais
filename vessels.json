@@ -1,234 +1,98 @@
 [
     {
-        "mmsi": 225982867,
-        "name": "FLY BLUE TRES",
-        "lat": 36.71836333333333,
-        "lon": -4.413704999999999,
-        "tooltip_title": "\ud83d\udea2 FLY BLUE TRES",
-        "tooltip_content": "MMSI: 225982867"
-    },
-    {
-        "mmsi": 355600000,
-        "name": "KARAVAS             ",
-        "lat": 36.19076166666667,
-        "lon": -4.983313333333333,
-        "tooltip_title": "\ud83d\udea2 KARAVAS             ",
-        "tooltip_content": "MMSI: 355600000"
-    },
-    {
-        "mmsi": 247489300,
-        "name": "VALDARNO            ",
-        "lat": 36.176921666666665,
-        "lon": -5.0457,
-        "tooltip_title": "\ud83d\udea2 VALDARNO            ",
-        "tooltip_content": "MMSI: 247489300"
-    },
-    {
-        "mmsi": 247629000,
-        "name": "CALA PEDRA",
-        "lat": 36.11935833333334,
-        "lon": -4.785889999999999,
-        "tooltip_title": "\ud83d\udea2 CALA PEDRA",
-        "tooltip_content": "MMSI: 247629000"
-    },
-    {
-        "mmsi": 224063870,
-        "name": "MAGIC A ",
-        "lat": 36.717819999999996,
-        "lon": -4.41331,
-        "tooltip_title": "\ud83d\udea2 MAGIC A ",
-        "tooltip_content": "MMSI: 224063870"
-    },
-    {
-        "mmsi": 225986764,
-        "name": "DKTEGORIA",
-        "lat": 36.69433,
-        "lon": -4.216536666666666,
-        "tooltip_title": "\ud83d\udea2 DKTEGORIA",
-        "tooltip_content": "MMSI: 225986764"
-    },
-    {
         "mmsi": 249512000,
         "name": "SONGA EAGLE         ",
-        "lat": 36.084543333333336,
-        "lon": -4.895701666666667,
+        "lat": 36.060815000000005,
+        "lon": -5.068818333333334,
         "tooltip_title": "\ud83d\udea2 SONGA EAGLE         ",
         "tooltip_content": "MMSI: 249512000"
     },
     {
-        "mmsi": 636026182,
-        "name": "MAMMA MARIA         ",
-        "lat": 36.02210166666667,
-        "lon": -5.111391666666666,
-        "tooltip_title": "\ud83d\udea2 MAMMA MARIA         ",
-        "tooltip_content": "MMSI: 636026182"
-    },
-    {
-        "mmsi": 563252600,
-        "name": "MAREX NINA          ",
-        "lat": 36.28042833333333,
-        "lon": -4.900538333333333,
-        "tooltip_title": "\ud83d\udea2 MAREX NINA          ",
-        "tooltip_content": "MMSI: 563252600"
-    },
-    {
-        "mmsi": 209613000,
-        "name": "BF LETICIA",
-        "lat": 36.195166666666665,
-        "lon": -4.416666666666667,
-        "tooltip_title": "\ud83d\udea2 BF LETICIA",
-        "tooltip_content": "MMSI: 209613000"
-    },
-    {
-        "mmsi": 224014470,
-        "name": "NEW MAGIC           ",
-        "lat": 36.586576666666666,
-        "lon": -4.52012,
-        "tooltip_title": "\ud83d\udea2 NEW MAGIC           ",
-        "tooltip_content": "MMSI: 224014470"
-    },
-    {
-        "mmsi": 548624000,
-        "name": "CLEAROCEAN MERIBEL  ",
-        "lat": 36.25328833333333,
-        "lon": -4.957161666666667,
-        "tooltip_title": "\ud83d\udea2 CLEAROCEAN MERIBEL  ",
-        "tooltip_content": "MMSI: 548624000"
-    },
-    {
-        "mmsi": 242400000,
-        "name": "CABO NEGRO          ",
-        "lat": 35.680686666666666,
-        "lon": -5.290418333333333,
-        "tooltip_title": "\ud83d\udea2 CABO NEGRO          ",
-        "tooltip_content": "MMSI: 242400000"
-    },
-    {
-        "mmsi": 352002406,
-        "name": "EREIKOUSSA          ",
-        "lat": 36.250755000000005,
-        "lon": -5.00735,
-        "tooltip_title": "\ud83d\udea2 EREIKOUSSA          ",
-        "tooltip_content": "MMSI: 352002406"
-    },
-    {
-        "mmsi": 636024024,
-        "name": "VELA LEADER         ",
-        "lat": 36.06330833333333,
-        "lon": -4.061958333333333,
-        "tooltip_title": "\ud83d\udea2 VELA LEADER         ",
-        "tooltip_content": "MMSI: 636024024"
-    },
-    {
-        "mmsi": 247322800,
-        "name": "AIDASTELLA",
-        "lat": 36.121431666666666,
-        "lon": -4.156016666666667,
-        "tooltip_title": "\ud83d\udea2 AIDASTELLA",
-        "tooltip_content": "MMSI: 247322800"
-    },
-    {
-        "mmsi": 224853000,
-        "name": "TRHEINTAYCINCO      ",
-        "lat": 36.71057,
-        "lon": -4.422176666666667,
-        "tooltip_title": "\ud83d\udea2 TRHEINTAYCINCO      ",
-        "tooltip_content": "MMSI: 224853000"
-    },
-    {
-        "mmsi": 477939700,
-        "name": "GREAT LINK          ",
-        "lat": 36.12436,
-        "lon": -4.289758333333333,
-        "tooltip_title": "\ud83d\udea2 GREAT LINK          ",
-        "tooltip_content": "MMSI: 477939700"
-    },
-    {
-        "mmsi": 224009880,
-        "name": "PLAYA MORCH SG",
-        "lat": 36.53917166666667,
-        "lon": -4.617236666666667,
-        "tooltip_title": "\ud83d\udea2 PLAYA MORCH SG",
-        "tooltip_content": "MMSI: 224009880"
-    },
-    {
-        "mmsi": 314542000,
-        "name": "LADY SACHA          ",
-        "lat": 36.80842333333333,
-        "lon": -6.77064,
-        "tooltip_title": "\ud83d\udea2 LADY SACHA          ",
-        "tooltip_content": "MMSI: 314542000"
-    },
-    {
-        "mmsi": 636023194,
-        "name": "DELTA  MARINER      ",
-        "lat": 36.22058666666667,
-        "lon": -4.977286666666667,
-        "tooltip_title": "\ud83d\udea2 DELTA  MARINER      ",
-        "tooltip_content": "MMSI: 636023194"
-    },
-    {
-        "mmsi": 314426000,
-        "name": "FLUVIUS TAVY",
-        "lat": 36.122240000000005,
-        "lon": -5.076336666666666,
-        "tooltip_title": "\ud83d\udea2 FLUVIUS TAVY",
-        "tooltip_content": "MMSI: 314426000"
-    },
-    {
-        "mmsi": 538005301,
-        "name": "LOULOULIGHT II      ",
-        "lat": 36.22242333333334,
-        "lon": -4.837326666666667,
-        "tooltip_title": "\ud83d\udea2 LOULOULIGHT II      ",
-        "tooltip_content": "MMSI: 538005301"
-    },
-    {
-        "mmsi": 538012344,
-        "name": "MORITZ SCHULTE      ",
-        "lat": 36.13156,
-        "lon": -5.07547,
-        "tooltip_title": "\ud83d\udea2 MORITZ SCHULTE      ",
-        "tooltip_content": "MMSI: 538012344"
-    },
-    {
-        "mmsi": 636018704,
-        "name": "CONTSHIP ZEN        ",
-        "lat": 36.83231333333333,
-        "lon": -6.888868333333334,
-        "tooltip_title": "\ud83d\udea2 CONTSHIP ZEN        ",
-        "tooltip_content": "MMSI: 636018704"
+        "mmsi": 241771000,
+        "name": "PACIFIC             ",
+        "lat": 36.24932833333333,
+        "lon": -4.867501666666667,
+        "tooltip_title": "\ud83d\udea2 PACIFIC             ",
+        "tooltip_content": "MMSI: 241771000"
     },
     {
         "mmsi": 224078780,
         "name": "SA RATA",
-        "lat": 36.53911666666667,
-        "lon": -4.617006666666667,
+        "lat": 36.539085,
+        "lon": -4.616983333333334,
         "tooltip_title": "\ud83d\udea2 SA RATA",
         "tooltip_content": "MMSI: 224078780"
     },
     {
-        "mmsi": 224159731,
-        "name": "VIVIMAR DOS   ",
-        "lat": 36.506355,
-        "lon": -4.6149233333333335,
-        "tooltip_title": "\ud83d\udea2 VIVIMAR DOS   ",
-        "tooltip_content": "MMSI: 224159731"
+        "mmsi": 209613000,
+        "name": "BF LETICIA",
+        "lat": 36.20183333333333,
+        "lon": -4.348833333333333,
+        "tooltip_title": "\ud83d\udea2 BF LETICIA",
+        "tooltip_content": "MMSI: 209613000"
     },
     {
-        "mmsi": 563002100,
-        "name": "MAERSK SIRAC        ",
-        "lat": 35.72228666666667,
-        "lon": -4.820703333333333,
-        "tooltip_title": "\ud83d\udea2 MAERSK SIRAC        ",
-        "tooltip_content": "MMSI: 563002100"
+        "mmsi": 356224000,
+        "name": "EYUP                ",
+        "lat": 36.099055,
+        "lon": -4.563775000000001,
+        "tooltip_title": "\ud83d\udea2 EYUP                ",
+        "tooltip_content": "MMSI: 356224000"
     },
     {
-        "mmsi": 225008330,
-        "name": "MONARCA",
-        "lat": 36.54174666666667,
-        "lon": -4.61758,
-        "tooltip_title": "\ud83d\udea2 MONARCA",
-        "tooltip_content": "MMSI: 225008330"
+        "mmsi": 538005301,
+        "name": "LOULOULIGHT II      ",
+        "lat": 36.248745,
+        "lon": -4.776884999999999,
+        "tooltip_title": "\ud83d\udea2 LOULOULIGHT II      ",
+        "tooltip_content": "MMSI: 538005301"
+    },
+    {
+        "mmsi": 538008269,
+        "name": "YASA PELICAN        ",
+        "lat": 36.04764333333333,
+        "lon": -5.025128333333333,
+        "tooltip_title": "\ud83d\udea2 YASA PELICAN        ",
+        "tooltip_content": "MMSI: 538008269"
+    },
+    {
+        "mmsi": 357627000,
+        "name": "MSC OPERA",
+        "lat": 36.21715833333334,
+        "lon": -4.765373333333333,
+        "tooltip_title": "\ud83d\udea2 MSC OPERA",
+        "tooltip_content": "MMSI: 357627000"
+    },
+    {
+        "mmsi": 225992707,
+        "name": "FLY  BLUE  QUATTRO",
+        "lat": 36.71393,
+        "lon": -4.416645,
+        "tooltip_title": "\ud83d\udea2 FLY  BLUE  QUATTRO",
+        "tooltip_content": "MMSI: 225992707"
+    },
+    {
+        "mmsi": 224009880,
+        "name": "PLAYA MORCH SG",
+        "lat": 36.53916166666667,
+        "lon": -4.617233333333333,
+        "tooltip_title": "\ud83d\udea2 PLAYA MORCH SG",
+        "tooltip_content": "MMSI: 224009880"
+    },
+    {
+        "mmsi": 249400000,
+        "name": "CMA CGM TIGA",
+        "lat": 36.00709833333334,
+        "lon": -5.236956666666667,
+        "tooltip_title": "\ud83d\udea2 CMA CGM TIGA",
+        "tooltip_content": "MMSI: 249400000"
+    },
+    {
+        "mmsi": 224853000,
+        "name": "TRHEINTAYCINCO      ",
+        "lat": 36.710575,
+        "lon": -4.422178333333333,
+        "tooltip_title": "\ud83d\udea2 TRHEINTAYCINCO      ",
+        "tooltip_content": "MMSI: 224853000"
     }
 ]
