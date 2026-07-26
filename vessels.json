@@ -1,114 +1,82 @@
 [
     {
-        "mmsi": 244198000,
-        "name": "TINA                ",
-        "lat": 36.27549,
-        "lon": -4.912803333333333,
-        "tooltip_title": "\ud83d\udea2 TINA                ",
-        "tooltip_content": "MMSI: 244198000"
-    },
-    {
-        "mmsi": 225986712,
-        "name": "MAMI",
-        "lat": 36.54130333333333,
-        "lon": -4.617383333333334,
-        "tooltip_title": "\ud83d\udea2 MAMI",
-        "tooltip_content": "MMSI: 225986712"
-    },
-    {
-        "mmsi": 211177380,
-        "name": "MYSTIK",
-        "lat": 36.70860666666667,
-        "lon": -4.413086666666667,
-        "tooltip_title": "\ud83d\udea2 MYSTIK",
-        "tooltip_content": "MMSI: 211177380"
-    },
-    {
-        "mmsi": 636021497,
-        "name": "RABDAN              ",
-        "lat": 36.20722166666667,
-        "lon": -4.367225,
-        "tooltip_title": "\ud83d\udea2 RABDAN              ",
-        "tooltip_content": "MMSI: 636021497"
-    },
-    {
-        "mmsi": 241816000,
-        "name": "NEPTUNE ETHOS       ",
-        "lat": 36.686025,
-        "lon": -4.37611,
-        "tooltip_title": "\ud83d\udea2 NEPTUNE ETHOS       ",
-        "tooltip_content": "MMSI: 241816000"
-    },
-    {
-        "mmsi": 636028184,
-        "name": "LEON GRACE",
-        "lat": 36.30387333333333,
-        "lon": -4.636123333333333,
-        "tooltip_title": "\ud83d\udea2 LEON GRACE",
-        "tooltip_content": "MMSI: 636028184"
-    },
-    {
-        "mmsi": 210329000,
-        "name": "RUSADIR",
-        "lat": 36.347240000000006,
-        "lon": -4.007468333333334,
-        "tooltip_title": "\ud83d\udea2 RUSADIR",
-        "tooltip_content": "MMSI: 210329000"
-    },
-    {
-        "mmsi": 538006206,
-        "name": "CENTURIUS           ",
-        "lat": 36.076275,
-        "lon": -4.126625,
-        "tooltip_title": "\ud83d\udea2 CENTURIUS           ",
-        "tooltip_content": "MMSI: 538006206"
-    },
-    {
-        "mmsi": 224853000,
-        "name": "TRHEINTAYCINCO      ",
-        "lat": 36.71057,
-        "lon": -4.422174999999999,
-        "tooltip_title": "\ud83d\udea2 TRHEINTAYCINCO      ",
-        "tooltip_content": "MMSI: 224853000"
-    },
-    {
-        "mmsi": 224975000,
-        "name": "TRHEINTAYCUATRO     ",
-        "lat": 36.710678333333334,
-        "lon": -4.4217683333333335,
-        "tooltip_title": "\ud83d\udea2 TRHEINTAYCUATRO     ",
-        "tooltip_content": "MMSI: 224975000"
-    },
-    {
-        "mmsi": 636024903,
-        "name": "MINERVA SYMPHONY    ",
-        "lat": 36.20886333333333,
-        "lon": -4.843063333333333,
-        "tooltip_title": "\ud83d\udea2 MINERVA SYMPHONY    ",
-        "tooltip_content": "MMSI: 636024903"
-    },
-    {
         "mmsi": 259135000,
         "name": "BELFOREST           ",
-        "lat": 36.20673333333333,
-        "lon": -5.064031666666667,
+        "lat": 36.231415,
+        "lon": -5.030845,
         "tooltip_title": "\ud83d\udea2 BELFOREST           ",
         "tooltip_content": "MMSI: 259135000"
     },
     {
         "mmsi": 636021112,
         "name": "TRANSARCTIC         ",
-        "lat": 36.194426666666665,
-        "lon": -4.101096666666667,
+        "lat": 36.164075000000004,
+        "lon": -4.33351,
         "tooltip_title": "\ud83d\udea2 TRANSARCTIC         ",
         "tooltip_content": "MMSI: 636021112"
     },
     {
+        "mmsi": 636022244,
+        "name": "CAPE TRADER         ",
+        "lat": 36.24901666666666,
+        "lon": -4.6965,
+        "tooltip_title": "\ud83d\udea2 CAPE TRADER         ",
+        "tooltip_content": "MMSI: 636022244"
+    },
+    {
+        "mmsi": 225986712,
+        "name": "MAMI",
+        "lat": 36.54119,
+        "lon": -4.617396666666666,
+        "tooltip_title": "\ud83d\udea2 MAMI",
+        "tooltip_content": "MMSI: 225986712"
+    },
+    {
+        "mmsi": 209314000,
+        "name": "JUTLAND",
+        "lat": 36.19757333333334,
+        "lon": -4.016685,
+        "tooltip_title": "\ud83d\udea2 JUTLAND",
+        "tooltip_content": "MMSI: 209314000"
+    },
+    {
+        "mmsi": 563104600,
+        "name": "BW PAVILIONARANTHERA",
+        "lat": 36.16228833333333,
+        "lon": -4.484338333333333,
+        "tooltip_title": "\ud83d\udea2 BW PAVILIONARANTHERA",
+        "tooltip_content": "MMSI: 563104600"
+    },
+    {
         "mmsi": 352002406,
         "name": "EREIKOUSSA          ",
-        "lat": 36.277636666666666,
-        "lon": -4.984121666666667,
+        "lat": 36.25835166666666,
+        "lon": -4.995886666666666,
         "tooltip_title": "\ud83d\udea2 EREIKOUSSA          ",
         "tooltip_content": "MMSI: 352002406"
+    },
+    {
+        "mmsi": 211177380,
+        "name": "MYSTIK",
+        "lat": 36.70858833333333,
+        "lon": -4.4130899999999995,
+        "tooltip_title": "\ud83d\udea2 MYSTIK",
+        "tooltip_content": "MMSI: 211177380"
+    },
+    {
+        "mmsi": 636020883,
+        "name": "",
+        "lat": 36.086405,
+        "lon": -4.1457500000000005,
+        "tooltip_title": "\ud83d\udea2 ",
+        "tooltip_content": "MMSI: 636020883"
+    },
+    {
+        "mmsi": 249097000,
+        "name": "",
+        "lat": 36.069203333333334,
+        "lon": -4.902011666666667,
+        "tooltip_title": "\ud83d\udea2 ",
+        "tooltip_content": "MMSI: 249097000"
     }
 ]
