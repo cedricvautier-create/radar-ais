@@ -1,298 +1,202 @@
 [
     {
-        "mmsi": 240221000,
-        "name": "OLYMPIC FUTURE      ",
-        "lat": 36.1098,
-        "lon": -4.389080000000001,
-        "tooltip_title": "\ud83d\udea2 OLYMPIC FUTURE      ",
-        "tooltip_content": "MMSI: 240221000"
-    },
-    {
-        "mmsi": 636023553,
-        "name": "NORDIC HAWK         ",
-        "lat": 36.17746833333333,
-        "lon": -4.543563333333334,
-        "tooltip_title": "\ud83d\udea2 NORDIC HAWK         ",
-        "tooltip_content": "MMSI: 636023553"
-    },
-    {
-        "mmsi": 224258840,
-        "name": "CONCHI Y ANTONIO",
-        "lat": 36.778775,
-        "lon": -6.441796666666666,
-        "tooltip_title": "\ud83d\udea2 CONCHI Y ANTONIO",
-        "tooltip_content": "MMSI: 224258840"
-    },
-    {
-        "mmsi": 538010705,
-        "name": "WHITE ALLEGRA       ",
-        "lat": 35.705396666666665,
-        "lon": -4.75791,
-        "tooltip_title": "\ud83d\udea2 WHITE ALLEGRA       ",
-        "tooltip_content": "MMSI: 538010705"
-    },
-    {
-        "mmsi": 224092850,
-        "name": "N. ANTONIO ESPERANZA",
-        "lat": 36.69082,
-        "lon": -4.276083333333333,
-        "tooltip_title": "\ud83d\udea2 N. ANTONIO ESPERANZA",
-        "tooltip_content": "MMSI: 224092850"
-    },
-    {
-        "mmsi": 219170000,
-        "name": "VAGA MAERSK",
-        "lat": 36.16231666666667,
-        "lon": -4.32655,
-        "tooltip_title": "\ud83d\udea2 VAGA MAERSK",
-        "tooltip_content": "MMSI: 219170000"
-    },
-    {
-        "mmsi": 224673950,
-        "name": "SENORA",
-        "lat": 36.28977666666666,
-        "lon": -5.269771666666667,
-        "tooltip_title": "\ud83d\udea2 SENORA",
-        "tooltip_content": "MMSI: 224673950"
-    },
-    {
-        "mmsi": 224615240,
-        "name": "LS-MAR TARIFA       ",
-        "lat": 36.70887333333334,
-        "lon": -4.420411666666666,
-        "tooltip_title": "\ud83d\udea2 LS-MAR TARIFA       ",
-        "tooltip_content": "MMSI: 224615240"
-    },
-    {
-        "mmsi": 538007825,
-        "name": "SEACHARM            ",
-        "lat": 36.28279166666667,
-        "lon": -4.5475433333333335,
-        "tooltip_title": "\ud83d\udea2 SEACHARM            ",
-        "tooltip_content": "MMSI: 538007825"
-    },
-    {
-        "mmsi": 538090641,
-        "name": "AS NINA",
-        "lat": 35.903663333333334,
-        "lon": -5.572396666666666,
-        "tooltip_title": "\ud83d\udea2 AS NINA",
-        "tooltip_content": "MMSI: 538090641"
-    },
-    {
-        "mmsi": 249172000,
-        "name": "CMA CGM TOKYO       ",
-        "lat": 36.34355333333333,
-        "lon": -4.11072,
-        "tooltip_title": "\ud83d\udea2 CMA CGM TOKYO       ",
-        "tooltip_content": "MMSI: 249172000"
-    },
-    {
-        "mmsi": 224100230,
-        "name": "PUNTA DE MALANDAR   ",
-        "lat": 36.77564666666667,
-        "lon": -6.407553333333333,
-        "tooltip_title": "\ud83d\udea2 PUNTA DE MALANDAR   ",
-        "tooltip_content": "MMSI: 224100230"
-    },
-    {
-        "mmsi": 224060150,
-        "name": "N ALONSO CAZORLA",
-        "lat": 36.66287333333333,
-        "lon": -4.284000000000001,
-        "tooltip_title": "\ud83d\udea2 N ALONSO CAZORLA",
-        "tooltip_content": "MMSI: 224060150"
-    },
-    {
-        "mmsi": 224225730,
-        "name": "BENITO_Y_MARIA",
-        "lat": 36.656825000000005,
-        "lon": -4.295378333333333,
-        "tooltip_title": "\ud83d\udea2 BENITO_Y_MARIA",
-        "tooltip_content": "MMSI: 224225730"
-    },
-    {
         "mmsi": 224094750,
         "name": "PAPELERO            ",
-        "lat": 36.80301333333333,
-        "lon": -6.337091666666667,
+        "lat": 36.803023333333336,
+        "lon": -6.3370716666666675,
         "tooltip_title": "\ud83d\udea2 PAPELERO            ",
         "tooltip_content": "MMSI: 224094750"
     },
     {
-        "mmsi": 636024694,
-        "name": "MC HERA             ",
-        "lat": 36.13319833333333,
-        "lon": -5.0545800000000005,
-        "tooltip_title": "\ud83d\udea2 MC HERA             ",
-        "tooltip_content": "MMSI: 636024694"
-    },
-    {
-        "mmsi": 275524000,
-        "name": "PERSEUS",
-        "lat": 36.249465,
-        "lon": -4.314591666666667,
-        "tooltip_title": "\ud83d\udea2 PERSEUS",
-        "tooltip_content": "MMSI: 275524000"
-    },
-    {
-        "mmsi": 224853000,
-        "name": "TRHEINTAYCINCO      ",
-        "lat": 36.71056333333333,
-        "lon": -4.422174999999999,
-        "tooltip_title": "\ud83d\udea2 TRHEINTAYCINCO      ",
-        "tooltip_content": "MMSI: 224853000"
-    },
-    {
-        "mmsi": 305931000,
-        "name": "MARGARETHA          ",
-        "lat": 35.97619833333333,
-        "lon": -5.086958333333333,
-        "tooltip_title": "\ud83d\udea2 MARGARETHA          ",
-        "tooltip_content": "MMSI: 305931000"
-    },
-    {
-        "mmsi": 224076970,
-        "name": "DOLORES LAZO        ",
-        "lat": 36.69889666666666,
-        "lon": -4.249158333333333,
-        "tooltip_title": "\ud83d\udea2 DOLORES LAZO        ",
-        "tooltip_content": "MMSI: 224076970"
-    },
-    {
-        "mmsi": 224070871,
-        "name": "ANTONIO Y SARI ",
-        "lat": 36.679296666666666,
-        "lon": -4.30179,
-        "tooltip_title": "\ud83d\udea2 ANTONIO Y SARI ",
-        "tooltip_content": "MMSI: 224070871"
-    },
-    {
         "mmsi": 477552800,
         "name": "MAERSK NOMAZWE",
-        "lat": 35.989246666666666,
-        "lon": -5.038873333333333,
+        "lat": 36.00543833333334,
+        "lon": -5.023338333333333,
         "tooltip_title": "\ud83d\udea2 MAERSK NOMAZWE",
         "tooltip_content": "MMSI: 477552800"
     },
     {
-        "mmsi": 414432000,
-        "name": "ZHONG CHANG 538     ",
-        "lat": 36.21402333333333,
-        "lon": -5.0838833333333335,
-        "tooltip_title": "\ud83d\udea2 ZHONG CHANG 538     ",
-        "tooltip_content": "MMSI: 414432000"
-    },
-    {
-        "mmsi": 229620000,
-        "name": "MSC AZOV            ",
-        "lat": 36.00510166666666,
-        "lon": -5.411943333333334,
-        "tooltip_title": "\ud83d\udea2 MSC AZOV            ",
-        "tooltip_content": "MMSI: 229620000"
-    },
-    {
-        "mmsi": 636093312,
-        "name": "NORDIC NANJING      ",
-        "lat": 36.06268333333333,
-        "lon": -5.157823333333334,
-        "tooltip_title": "\ud83d\udea2 NORDIC NANJING      ",
-        "tooltip_content": "MMSI: 636093312"
-    },
-    {
-        "mmsi": 224241390,
-        "name": "NUEVO HARO RODRIGUEZ",
-        "lat": 36.53905666666667,
-        "lon": -4.6169199999999995,
-        "tooltip_title": "\ud83d\udea2 NUEVO HARO RODRIGUEZ",
-        "tooltip_content": "MMSI: 224241390"
-    },
-    {
-        "mmsi": 248401000,
-        "name": "MARIO C",
-        "lat": 36.1484,
-        "lon": -4.99444,
-        "tooltip_title": "\ud83d\udea2 MARIO C",
-        "tooltip_content": "MMSI: 248401000"
-    },
-    {
-        "mmsi": 224234720,
-        "name": "NUEVO GEMELOS",
-        "lat": 36.65991666666666,
-        "lon": -4.288716666666667,
-        "tooltip_title": "\ud83d\udea2 NUEVO GEMELOS",
-        "tooltip_content": "MMSI: 224234720"
-    },
-    {
-        "mmsi": 224013780,
-        "name": "NUEVO CARMEN MARIA",
-        "lat": 36.77395,
-        "lon": -6.413283333333334,
-        "tooltip_title": "\ud83d\udea2 NUEVO CARMEN MARIA",
-        "tooltip_content": "MMSI: 224013780"
+        "mmsi": 235104723,
+        "name": "ZENOBIA             ",
+        "lat": 36.716170000000005,
+        "lon": -4.4142383333333335,
+        "tooltip_title": "\ud83d\udea2 ZENOBIA             ",
+        "tooltip_content": "MMSI: 235104723"
     },
     {
         "mmsi": 311000695,
         "name": "AMBELOS             ",
-        "lat": 36.17388833333334,
-        "lon": -4.784893333333333,
+        "lat": 36.189411666666665,
+        "lon": -4.7408166666666665,
         "tooltip_title": "\ud83d\udea2 AMBELOS             ",
         "tooltip_content": "MMSI: 311000695"
     },
     {
-        "mmsi": 224184760,
-        "name": "NUEVO EL KIKO",
-        "lat": 36.68067333333333,
-        "lon": -4.269266666666667,
-        "tooltip_title": "\ud83d\udea2 NUEVO EL KIKO",
-        "tooltip_content": "MMSI: 224184760"
+        "mmsi": 636024694,
+        "name": "MC HERA             ",
+        "lat": 36.13191166666666,
+        "lon": -5.048845,
+        "tooltip_title": "\ud83d\udea2 MC HERA             ",
+        "tooltip_content": "MMSI: 636024694"
     },
     {
-        "mmsi": 224150820,
-        "name": "FRANCISCO Y MIRIAM  ",
-        "lat": 36.68677,
-        "lon": -4.285176666666667,
-        "tooltip_title": "\ud83d\udea2 FRANCISCO Y MIRIAM  ",
-        "tooltip_content": "MMSI: 224150820"
+        "mmsi": 235069089,
+        "name": "WO AI NI",
+        "lat": 36.54109833333334,
+        "lon": -4.61735,
+        "tooltip_title": "\ud83d\udea2 WO AI NI",
+        "tooltip_content": "MMSI: 235069089"
     },
     {
-        "mmsi": 224057990,
-        "name": "NUEVO TALITO SEGUNDO",
-        "lat": 36.781175,
-        "lon": -6.45326,
-        "tooltip_title": "\ud83d\udea2 NUEVO TALITO SEGUNDO",
-        "tooltip_content": "MMSI: 224057990"
+        "mmsi": 636022935,
+        "name": "PEONY LEADER        ",
+        "lat": 36.03485333333333,
+        "lon": -5.302021666666667,
+        "tooltip_title": "\ud83d\udea2 PEONY LEADER        ",
+        "tooltip_content": "MMSI: 636022935"
     },
     {
-        "mmsi": 224108720,
-        "name": "HNS LOPEZ MARTIN",
-        "lat": 36.80372,
-        "lon": -6.336918333333333,
-        "tooltip_title": "\ud83d\udea2 HNS LOPEZ MARTIN",
-        "tooltip_content": "MMSI: 224108720"
+        "mmsi": 248305000,
+        "name": "NEW FRONTIER1       ",
+        "lat": 36.27630666666666,
+        "lon": -4.597601666666667,
+        "tooltip_title": "\ud83d\udea2 NEW FRONTIER1       ",
+        "tooltip_content": "MMSI: 248305000"
     },
     {
-        "mmsi": 244850612,
-        "name": "VLISTBORG           ",
-        "lat": 35.772196666666666,
-        "lon": -6.283379999999999,
-        "tooltip_title": "\ud83d\udea2 VLISTBORG           ",
-        "tooltip_content": "MMSI: 244850612"
+        "mmsi": 241748000,
+        "name": "MARAN GAS KALYMNOS  ",
+        "lat": 36.21265666666667,
+        "lon": -4.925008333333333,
+        "tooltip_title": "\ud83d\udea2 MARAN GAS KALYMNOS  ",
+        "tooltip_content": "MMSI: 241748000"
     },
     {
-        "mmsi": 224135190,
-        "name": "ABUELO CALISTRO",
-        "lat": 36.80394,
-        "lon": -6.33693,
-        "tooltip_title": "\ud83d\udea2 ABUELO CALISTRO",
-        "tooltip_content": "MMSI: 224135190"
+        "mmsi": 255805360,
+        "name": "NORDIC LUEBECK",
+        "lat": 36.085816666666666,
+        "lon": -4.427416666666667,
+        "tooltip_title": "\ud83d\udea2 NORDIC LUEBECK",
+        "tooltip_content": "MMSI: 255805360"
     },
     {
-        "mmsi": 224078380,
-        "name": "EL ABUELO PEPE      ",
-        "lat": 36.748736666666666,
-        "lon": -6.4670250000000005,
-        "tooltip_title": "\ud83d\udea2 EL ABUELO PEPE      ",
-        "tooltip_content": "MMSI: 224078380"
+        "mmsi": 224070871,
+        "name": "ANTONIO Y SARI ",
+        "lat": 36.655123333333336,
+        "lon": -4.311005,
+        "tooltip_title": "\ud83d\udea2 ANTONIO Y SARI ",
+        "tooltip_content": "MMSI: 224070871"
+    },
+    {
+        "mmsi": 224166440,
+        "name": "HAROMAR SEGUNDO",
+        "lat": 36.53935,
+        "lon": -4.617556666666667,
+        "tooltip_title": "\ud83d\udea2 HAROMAR SEGUNDO",
+        "tooltip_content": "MMSI: 224166440"
+    },
+    {
+        "mmsi": 241444000,
+        "name": "AEGEAN MARATHON     ",
+        "lat": 36.11490333333334,
+        "lon": -5.033919999999999,
+        "tooltip_title": "\ud83d\udea2 AEGEAN MARATHON     ",
+        "tooltip_content": "MMSI: 241444000"
+    },
+    {
+        "mmsi": 538010409,
+        "name": "YELLOW TRADER       ",
+        "lat": 35.8125,
+        "lon": -4.8189,
+        "tooltip_title": "\ud83d\udea2 YELLOW TRADER       ",
+        "tooltip_content": "MMSI: 538010409"
+    },
+    {
+        "mmsi": 247258500,
+        "name": "COSTANZA M          ",
+        "lat": 36.05160333333333,
+        "lon": -4.890766666666667,
+        "tooltip_title": "\ud83d\udea2 COSTANZA M          ",
+        "tooltip_content": "MMSI: 247258500"
+    },
+    {
+        "mmsi": 352005315,
+        "name": "KOSOVA              ",
+        "lat": 36.22935,
+        "lon": -4.543921666666666,
+        "tooltip_title": "\ud83d\udea2 KOSOVA              ",
+        "tooltip_content": "MMSI: 352005315"
+    },
+    {
+        "mmsi": 563195800,
+        "name": "BALTIC NARVAL       ",
+        "lat": 36.193470000000005,
+        "lon": -5.109018333333333,
+        "tooltip_title": "\ud83d\udea2 BALTIC NARVAL       ",
+        "tooltip_content": "MMSI: 563195800"
+    },
+    {
+        "mmsi": 636025274,
+        "name": "CONTSHIP PEP II     ",
+        "lat": 36.17455666666667,
+        "lon": -4.835196666666667,
+        "tooltip_title": "\ud83d\udea2 CONTSHIP PEP II     ",
+        "tooltip_content": "MMSI: 636025274"
+    },
+    {
+        "mmsi": 271054382,
+        "name": "RUZGARR",
+        "lat": 36.229238333333335,
+        "lon": -5.0501716666666665,
+        "tooltip_title": "\ud83d\udea2 RUZGARR",
+        "tooltip_content": "MMSI: 271054382"
+    },
+    {
+        "mmsi": 255806143,
+        "name": "AVILA",
+        "lat": 36.288021666666666,
+        "lon": -4.233875,
+        "tooltip_title": "\ud83d\udea2 AVILA",
+        "tooltip_content": "MMSI: 255806143"
+    },
+    {
+        "mmsi": 224451000,
+        "name": "RIOJA KNUTSEN       ",
+        "lat": 36.47641333333333,
+        "lon": -6.571463333333333,
+        "tooltip_title": "\ud83d\udea2 RIOJA KNUTSEN       ",
+        "tooltip_content": "MMSI: 224451000"
+    },
+    {
+        "mmsi": 232043464,
+        "name": "SEVEN               ",
+        "lat": 36.601045,
+        "lon": -4.3267533333333335,
+        "tooltip_title": "\ud83d\udea2 SEVEN               ",
+        "tooltip_content": "MMSI: 232043464"
+    },
+    {
+        "mmsi": 636093143,
+        "name": "DUBAI EXPRESS       ",
+        "lat": 35.92234166666666,
+        "lon": -4.871958333333334,
+        "tooltip_title": "\ud83d\udea2 DUBAI EXPRESS       ",
+        "tooltip_content": "MMSI: 636093143"
+    },
+    {
+        "mmsi": 636022369,
+        "name": "BELLA NIAGARA       ",
+        "lat": 35.887445,
+        "lon": -5.024766666666666,
+        "tooltip_title": "\ud83d\udea2 BELLA NIAGARA       ",
+        "tooltip_content": "MMSI: 636022369"
+    },
+    {
+        "mmsi": 224186490,
+        "name": "NUEVO HOS. TORIBIA  ",
+        "lat": 36.80453,
+        "lon": -6.336755,
+        "tooltip_title": "\ud83d\udea2 NUEVO HOS. TORIBIA  ",
+        "tooltip_content": "MMSI: 224186490"
     }
 ]
